@@ -4,7 +4,6 @@ pdfFile=open("C:\\Users\\Dell\\Desktop\\pdfEdit\\splitted_Pdf\\Main_Pdf_Merged.p
 pdfReader=PdfFileReader(pdfFile)
 pdfWriter=PdfFileWriter()
 
-# using this
 totalPage=402
 loopRange=int(totalPage/2)
 lastPage=totalPage-1
