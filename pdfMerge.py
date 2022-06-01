@@ -17,4 +17,3 @@ for pdf in pdfS:
 merger.write("C:\\Users\\Dell\\Desktop\\pdfEdit\\splitted_Pdf\\Main_Pdf_Merged.pdf")
 merger.close()
 
-# using this
