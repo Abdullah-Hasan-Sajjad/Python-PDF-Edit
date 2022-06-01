@@ -1,4 +1,3 @@
-
 from PyPDF2 import PdfFileMerger
 
 path="C:\\Users\\Dell\\Desktop\\pdfEdit\\splitted_Pdf\\"
@@ -16,4 +15,3 @@ for pdf in pdfS:
 
 merger.write("C:\\Users\\Dell\\Desktop\\pdfEdit\\splitted_Pdf\\Main_Pdf_Merged.pdf")
 merger.close()
-
